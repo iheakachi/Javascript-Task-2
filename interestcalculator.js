@@ -25,5 +25,5 @@ function interestCalculator(data) {
     }
     return interestData;
 }
-interestCalculator(data); <
-/script>
+interestCalculator(data); 
+</script>
